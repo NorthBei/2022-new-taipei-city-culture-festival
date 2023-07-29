@@ -1,6 +1,6 @@
 {
   "name": "2022-new-taipei-city-culture-festival",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,14 +9,34 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.3.1",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "18.2.0",
+    "react-fast-marquee": "^1.6.0",
+    "react-scroll-parallax": "^3.4.2",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
     "@types/node": "20.4.5",
     "@types/react": "18.2.17",
     "@types/react-dom": "18.2.7",
+    "@types/react-slick": "^0.23.10",
+    "@typescript-eslint/eslint-plugin": "^6.2.0",
+    "@typescript-eslint/parser": "^6.2.0",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.12",
-    "next": "13.4.12",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "eslint-config-prettier": "^8.9.0",
+    "eslint-plugin-json": "^3.1.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "prettier": "^3.0.0",
     "typescript": "5.1.6"
+  },
+  "engines": {
+    "node": "^18.16.0",
+    "npm": "^9.5.1"
   }
 }

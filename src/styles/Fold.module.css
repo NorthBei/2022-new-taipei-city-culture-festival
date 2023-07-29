@@ -1,0 +1,103 @@
+
+.fold {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+
+.nav_desktop {
+  flex: 0;
+  display: flex;
+  width: 100%;
+  border: 2px solid black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  background-color: black;
+}
+
+.nav_desktop_logo {
+  border-right: 2px solid black;
+  display: inline-flex;
+}
+
+.nav_item {
+  color: white;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 24px;
+  text-decoration: none;
+}
+
+.nav_item:hover {
+  color: var(--yellow);
+}
+
+.nav_mobile {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+
+.to_top_mobile {
+  position: fixed;
+  right: 10px;
+  bottom: 65px;
+  z-index: 100;
+}
+
+.parallax_icon_star {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.content {
+  margin-top: 8%;
+  margin-top: 60px;
+  flex: 1 0 auto;
+  height: 400px;
+  position: relative;
+  pointer-events: none;
+}
+
+.content_float_date {
+  position: absolute;
+  left: 20px;
+  bottom: 30px;
+}
+
+.marquee_orgs {
+  margin: 0 300px;
+}
+
+.marquee_org_text {
+  font-size: 16px;
+  margin-right: 12px;
+}
+
+.slides {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+}
+
+.marquee {
+  background: white;
+  color: black;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 28px;
+  line-height: 28px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  padding: 28px;
+  flex: 0;
+}

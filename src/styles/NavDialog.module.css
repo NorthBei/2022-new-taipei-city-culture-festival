@@ -1,0 +1,31 @@
+.nav_close_btn {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.nav_item {
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: #000000;
+  text-decoration: none;
+  margin-bottom: 24px;
+}
+
+.nav_item:hover {
+  color: #000000;
+  text-shadow: 3px 3px 0px var(--yellow);
+}
+
+.nav_org_item {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+  letter-spacing: 0.05em;
+  color: #000000;
+  margin-bottom: 8px;
+}

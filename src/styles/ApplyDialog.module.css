@@ -1,0 +1,46 @@
+.event_item {
+  padding: 20px 10px; /*混街屋*/
+  padding: 40px 30px; /*小旅行*/
+  max-width: 100%;
+  margin: 0;
+}
+
+.event_item:not(.event_item:first-child)  {
+  border-top: 2px solid;
+}
+
+.event_img {
+  border: 2px solid;
+}
+
+.event_btn {
+  padding: 10px 15px;
+  background: #000000;
+  box-shadow: 4px 4px 0px #EEB033;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 38px;
+  text-align: center;
+  color: #FFFFFF;
+  width: 100%;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.event_btn:hover {
+  color: #FFFFFF;
+}
+
+.event_title {
+  font-weight: bolder;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.intro_text {
+  min-height: 1rem;
+  width: 100%;
+}

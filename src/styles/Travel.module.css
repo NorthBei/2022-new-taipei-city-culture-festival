@@ -1,0 +1,99 @@
+.travel {
+  position: relative;
+  background-color: var(--light-yellow);
+  z-index: 0;
+}
+
+.banner {
+  position: relative;
+  border: 2px solid black;
+}
+
+.banner_mark {
+  position: absolute;
+  top: 15%;
+  right: 6%;
+  max-width: 40vw;
+}
+
+.watermark {
+  position: absolute;
+  top: 48px;
+  right: 0;
+  z-index: -1;
+  max-width: 80%;
+}
+
+.parallax_icon_mix {
+  position: absolute;
+  top: 0;
+  left: 4%;
+  max-width: 45vw;
+  z-index: -1;
+}
+
+.travel_event {
+  background: black;
+  border: 2px solid black;
+  position: relative;
+}
+
+.travel_event_title {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 2.4rem;
+  line-height: 42px;
+  text-align: center;
+  color: inherit;
+  margin: 0;
+}
+
+.travel_event_img_wrapper {
+  border: 2px solid black;
+  border-left: none;
+  border-right: none;
+  position: relative;
+  padding-bottom: 66.6%;
+  overflow: hidden;
+}
+
+.travel_event_img {
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
+
+.travel_event_date {
+  padding: 10px;
+  background: white;
+  box-sizing: border-box;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 42px;
+  color: black;
+  margin: 0;
+  text-align: center;
+}
+
+.travel_event_text {
+  padding: 10px;
+  box-sizing: border-box;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 22px;
+  color: white;
+  margin: 0;
+  text-align: center;
+}
+
+.travel_event_btn {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 18px;
+  text-align: center;
+  color: black;
+  padding: 14px 10px;
+  width: 100%;
+  border: none;
+}
