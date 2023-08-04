@@ -1,5 +1,5 @@
 # 2022 新北市多元文化節 - 當我們混在一起
-<img width="1905" alt="image" src="https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/d4c324a7-ef27-4e48-9938-115e569a686b">
+<img width="1905" alt="256982276-d4c324a7-ef27-4e48-9938-115e569a686b" src="https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/dd591984-c6d1-492e-b69d-bcec2edcecc8">
 
 
 ## Project Intro
@@ -17,16 +17,16 @@
 - 地點｜空軍三重一村(新北市三重區正義南路86巷)
 
 ### 混舞台
-<img width="1319" alt="image" src="https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/26223852-832d-4281-85a1-2f44a87c45a4">
+<img width="1319" alt="256982575-26223852-832d-4281-85a1-2f44a87c45a4" src="https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/eb62537f-75bb-4564-87af-212136f06cfa">
 
 ### 混市集
-<img width="1317" alt="image" src="https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/da26cf68-123b-43e0-aeb4-b99e81d07063">
+<img width="1317" alt="256982582-da26cf68-123b-43e0-aeb4-b99e81d07063" src="https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/ac89c886-e4b2-4627-aa21-c5bd4a092ca1">
 
 ### 混街屋
-<img width="1293" alt="image" src="https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/501780ac-2298-4650-9189-b3dea3fddb84">
+<img width="1293" alt="256982590-501780ac-2298-4650-9189-b3dea3fddb84" src="https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/52ea3e5c-ea10-4925-8e66-85c9ee16367a">
 
 ### 小旅行
-<img width="1297" alt="image" src="https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/68efcfc5-1f68-4869-a385-ff1d2018ee4a">
+<img width="1297" alt="256982602-68efcfc5-1f68-4869-a385-ff1d2018ee4a" src="https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/631e9d78-e77a-4307-afce-7eff55de6bf1">
 
 ### Person In charge
 - Plan by [滾出趣創意生活有限公司](https://rollinginlife.tw/)
@@ -40,8 +40,7 @@
 
 | PC | Mobile |
 |-|-|
-|![FireShot Capture 073 - 當我們混在一起 Mix Together - 2022 新北市多元文化節_ - 2022-new-taipei-city-culture-festival netlify app](https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/3d614598-58ee-409d-8d4c-0f6ad544a51c)|![FireShot Capture 068 - 當我們混在一起 Mix Together - 2022 新北市多元文化節_ - 2022-new-taipei-city-culture-festival netlify app-min](https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/8e22af24-d7c7-482e-9654-edfdc4363c22)|
-
+|![256985619-3d614598-58ee-409d-8d4c-0f6ad544a51c](https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/388a972d-0ba6-4813-b71f-6585ba770c22)|![256983221-8e22af24-d7c7-482e-9654-edfdc4363c22](https://github.com/NorthBei/2022-new-taipei-city-culture-festival/assets/15665709/76f6367e-4482-4b6a-9dc9-00538da0cbc3)|
 
 ## Development Instruction
 
